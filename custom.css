@@ -1,0 +1,33 @@
+.first-section {
+  background-image: url("images/background.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.drop-down {
+  margin-left: 714px;
+  margin-top: 30px;
+}
+
+.recent-works {
+  margin-left: 600px;
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+
+.container {
+  margin-top: 8rem;
+}
+
+.btn-success {
+  margin-left: 70px;
+}
+
+.about-me {
+  margin-left: 600px;
+  margin-top: 200px;
+}
+
+.resume {
+  margin-left: 650px;
+}
